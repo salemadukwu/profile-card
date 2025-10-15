@@ -1,0 +1,31 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    margin: auto 2em;
+    background-color: rgb(250, 244, 245);
+}
+
+.container {
+    display: flex;
+    padding: 0 30px;
+    gap: 200px;
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: cornsilk;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.left {
+    box-sizing: border-box;
+    
+}
+
+.right {
+    box-sizing: border-box;
+    
+}
